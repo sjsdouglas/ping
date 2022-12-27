@@ -31,7 +31,7 @@ Can be found in [4. Variables](https://github.com/sjsdouglas/ping/wiki/P.I.N.G-W
 ## Support through
 
 
- * Pix
+ * Pix (FOR BRAZIL)
 
   ![qrcode-pix](https://user-images.githubusercontent.com/104078248/209589139-08adb33c-9ce5-4dc0-a15d-4aa6fdd9c0ad.png)
 
