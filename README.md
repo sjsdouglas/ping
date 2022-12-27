@@ -75,12 +75,8 @@ Pix
 
 PayPal dollar (USD)
 
-![qrcode-paypalusd](https://user-images.githubusercontent.com/104078248/209590370-733047eb-556c-41e4-a820-04f6deb0e720.png)
-
 ![qrcode-paypalusd (1)](https://user-images.githubusercontent.com/104078248/209590580-1cb822d8-313e-4124-9953-2e66bc57ced6.png)
 
 PayPal real (BRL)
 
-![qrcode-paypalbrl](https://user-images.githubusercontent.com/104078248/209590452-f10074ba-26d2-4310-a2c6-9d0e6288c1f8.png)
-
-![qrcode-paypalbrl (1)](https://user-images.githubusercontent.com/104078248/209590543-09826b1b-2fdd-420a-96a2-bcb494a27e1a.png)
+![qrcode-paypalbrl (1)](https://user-images.githubusercontent.com/104078248/209726203-6c0a8156-9c74-445f-9521-02b2ccbd7d90.png)
