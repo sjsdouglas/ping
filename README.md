@@ -1,5 +1,7 @@
 # P.I.N.G. Project
- 
+
+**P.I.N.G.** is a script made in Python with the objective of showing how your internet latency is going.
+
 ![Screenshot_1](https://user-images.githubusercontent.com/104078248/209587534-10458fdb-34a8-4c79-b426-dbdd902d0154.png)
  
 ## Download and install Python 
