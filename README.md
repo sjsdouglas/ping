@@ -8,7 +8,7 @@
 
 ![Screenshot_2](https://user-images.githubusercontent.com/104078248/209588133-3404e1cb-b7f1-4a08-8f15-5c48803ce29a.png)
 
-2. Move cursor to "Downloads"
+2. Move cursor to "**Downloads**"
 
 ![Screenshot_3](https://user-images.githubusercontent.com/104078248/209588233-8a436eb1-867f-404a-91f4-adc0e5acaa31.png)
 
@@ -18,11 +18,11 @@
 
 ## Download the P.I.N.G. script
 
-1. Click on <> Code and click "Download ZIP"
+1. Click on ***<> Code*** and click "***Download ZIP***"
 
 2. Extract the file 
 
-3. In the folder where the files are, press SHIFT + RIGHT CLICK and click on "Open PowerShell window here"
+3. In the folder where the files are, press **SHIFT** + **RIGHT CLICK** and click on "**Open PowerShell window here**"
 
 4. Paste and press enter
 
