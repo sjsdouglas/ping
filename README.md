@@ -67,16 +67,17 @@ r = 100  # Value greater than (100) for red
 [^1]: (https://en.wikipedia.org/wiki/Website)
 [^2]: (https://en.wikipedia.org/wiki/IP_address)
 
-### Support through
+## Support through
 
-Pix
 
-![qrcode-pix](https://user-images.githubusercontent.com/104078248/209589139-08adb33c-9ce5-4dc0-a15d-4aa6fdd9c0ad.png)
+ * Pix
 
-PayPal dollar (USD)
+  ![qrcode-pix](https://user-images.githubusercontent.com/104078248/209589139-08adb33c-9ce5-4dc0-a15d-4aa6fdd9c0ad.png)
 
-![qrcode-paypalusd (1)](https://user-images.githubusercontent.com/104078248/209590580-1cb822d8-313e-4124-9953-2e66bc57ced6.png)
-
-PayPal real (BRL)
-
-![qrcode-paypalbrl (1)](https://user-images.githubusercontent.com/104078248/209726203-6c0a8156-9c74-445f-9521-02b2ccbd7d90.png)
+ * PayPal USD 
+ 
+  ![qrcode-paypalusd (1)](https://user-images.githubusercontent.com/104078248/209590580-1cb822d8-313e-4124-9953-2e66bc57ced6.png)
+ 
+ * PayPal BRL
+ 
+  ![qrcode-paypalbrl (1)](https://user-images.githubusercontent.com/104078248/209726203-6c0a8156-9c74-445f-9521-02b2ccbd7d90.png) 
