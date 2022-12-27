@@ -2,7 +2,7 @@
  
 ![Screenshot_1](https://user-images.githubusercontent.com/104078248/209587534-10458fdb-34a8-4c79-b426-dbdd902d0154.png)
  
-## Download and install
+## Download and install Python 
 
 1. Go to https://www.python.org/ 
 
@@ -16,7 +16,15 @@
 
 ![Screenshot_4](https://user-images.githubusercontent.com/104078248/209588235-b87fad6d-37b0-4f3a-b1b2-297a8f004cd1.png)
 
-4. Open CMD or PowerShell, paste and press enter
+## Download the P.I.N.G. script
+
+1. Click on <> Code and click "Download ZIP"
+
+2. Extract the file 
+
+3. In the folder where the files are, press SHIFT + RIGHT CLICK and click on "Open PowerShell window here"
+
+4. Paste and press enter
 
 ```shell
 py -m pip install -r requirements.txt
@@ -36,7 +44,7 @@ And have fun!
 
 ## Variables!
 
-  - The ***host*** variable can be
+ - The ***host*** variable can be
  
 website [^1]
 ```python
