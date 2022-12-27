@@ -28,11 +28,11 @@
 
 ![Screenshot_10](https://user-images.githubusercontent.com/104078248/209731608-19ede64f-3ffc-441a-a32c-ba42cb561ac8.png)
 
-2. Extract the file 
+3. Extract the file 
 
-3. In the folder where the files are, press **SHIFT** + **RIGHT CLICK** and click on "**Open PowerShell window here**"
+4. In the folder where the files are, press **SHIFT** + **RIGHT CLICK** and click on "**Open PowerShell window here**"
 
-4. Paste and press enter
+5. Paste and press enter
 
 ```shell
 py -m pip install -r requirements.txt
