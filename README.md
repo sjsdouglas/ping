@@ -20,7 +20,13 @@
 
 ## Download the P.I.N.G. script
 
-1. Click on ***<> Code*** and click "***Download ZIP***"
+1. Click on **Releases**
+
+![Screenshot_9](https://user-images.githubusercontent.com/104078248/209731549-9272cd19-2c1b-4097-9165-7f24a796a45a.png)
+
+2. And click in **Source code**
+
+![Screenshot_10](https://user-images.githubusercontent.com/104078248/209731608-19ede64f-3ffc-441a-a32c-ba42cb561ac8.png)
 
 2. Extract the file 
 
