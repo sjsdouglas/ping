@@ -1,3 +1,9 @@
+<h3 align="center">
+
+ ![Chocolatey Version](https://img.shields.io/chocolatey/v/python?label=python&style=flat-square&logo=python) ![PyPI](https://img.shields.io/pypi/v/ping3?label=ping3&style=flat-square) ![PINGPJCT](https://img.shields.io/badge/p.i.n.g.-pjct-%23000000?style=flat-square&logo=powershell)
+</h3>
+
+
 # P.I.N.G. Project
 
 **P.I.N.G.** is a script made in Python with the objective of showing how your internet latency is going.
