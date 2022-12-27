@@ -8,13 +8,13 @@
 
 Already have Python 3.11 or above installed? skip this step
 
-Otherwise, go to **[1. Download and install Python](https://github.com/sjsdouglas/ping/wiki/_new#download-and-install-python)** on the P.I.N.G wiki.
+Otherwise, go to **[1. Download and install Python](https://github.com/sjsdouglas/ping/wiki/_new#download-and-install-python)** on the [P.I.N.G wiki](https://github.com/sjsdouglas/ping/wiki/P.I.N.G-Wiki).
 
 ## Download the P.I.N.G. script
 
 Do you already know how? Good luck!
 
-Otherwise, go to
+Otherwise, go to [2. Download the P.I.N.G. script](https://github.com/sjsdouglas/ping/wiki/P.I.N.G-Wiki#2-download-the-ping-script)
 
 ## How to use
 
@@ -22,8 +22,11 @@ Otherwise, go to
 2. Open with
 3. Python
 
+Or [3. How to use](https://github.com/sjsdouglas/ping/wiki/P.I.N.G-Wiki#3-how-to-use)
+
 ## Variables
 
+Can be found in [4. Variables](https://github.com/sjsdouglas/ping/wiki/P.I.N.G-Wiki#4-variables)
 
 ## Support through
 
