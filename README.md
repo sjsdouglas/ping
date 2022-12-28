@@ -9,7 +9,23 @@
 **P.I.N.G.** is a script made in Python with the objective of showing how your internet latency is going.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/104078248/209587534-10458fdb-34a8-4c79-b426-dbdd902d0154.png)
- 
+
+## To work correctly, use the latest version of PowerShell available
+
+Tested on versions
+
+| version | result |
+| ------------- | :-: |
+| 5.1.22000.53  | ok  |
+| 5.1.22621.169 | ok  |
+
+To find out which version you use, paste this into the terminal and press enter
+```
+$PSVersionTable
+```
+
+![Screenshot_11](https://user-images.githubusercontent.com/104078248/209885199-5eeeeae8-193d-4a63-a8c0-14f07abd84ea.png)
+
 ## Download and install Python 
 
 Already have Python 3.11 or above installed? skip this step
@@ -24,9 +40,14 @@ Otherwise, go to [2. Download the P.I.N.G. script](https://github.com/sjsdouglas
 
 ## How to use
 
-1. Right click
-2. Open with
-3. Python
+1. Open PowerShell in the folder where 'main.py' is
+2. Paste and press enter
+
+```shell
+py .\main.py
+```
+
+3. Have fun!
 
 Or [3. How to use](https://github.com/sjsdouglas/ping/wiki/P.I.N.G-Wiki#3-how-to-use)
 
