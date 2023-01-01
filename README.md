@@ -51,6 +51,8 @@ My sincerest thanks to the [people at Stack Overflow](https://stackoverflow.com/
 
 ![Screenshot_2](https://user-images.githubusercontent.com/104078248/210159104-3c09350b-455f-48ce-8b4e-4f7226678ec9.png)
 
+3. Execute
+
 ## Support through
 
  * Pix (FOR BRAZIL)
