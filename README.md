@@ -39,6 +39,8 @@ This other model shows in your task manager the color according to the ping
 ![pingTB](https://user-images.githubusercontent.com/104078248/210159062-7a6ee6f8-47fd-4b82-b26f-dee1bb677689.gif)
 </h3>
 
+My sincerest thanks to the [people at Stack Overflow](https://stackoverflow.com/questions/74922884/dynamically-change-tray-icon-with-pystray)
+
 ## How to use
 
 1. Releases
