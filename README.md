@@ -20,6 +20,8 @@
 
 <h3 align="center">
 
+![pingTB](https://user-images.githubusercontent.com/104078248/210159062-7a6ee6f8-47fd-4b82-b26f-dee1bb677689.gif)
+
 ![pingTB](https://github.com/sjsdouglas/gif/blob/main/pingTB.gif)
 
 </h3>
