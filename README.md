@@ -18,7 +18,11 @@
 
 ## P.I.N.G. TaskBar
 
-![pingTB](https://user-images.githubusercontent.com/104078248/210158821-6f8bbf73-cea1-4000-8c31-4e50ac7e235a.gif)
+<h3 align="center">
+
+![pingTB](https://github.com/sjsdouglas/gif/blob/main/pingTB.gif)
+
+</h3>
 
 ## Support through
 
