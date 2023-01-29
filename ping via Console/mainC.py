@@ -7,13 +7,26 @@ from time import sleep
 from ping3 import ping
 from os import system
 
-# URL ou IP para pingar
+# Programa
 print('Enter the website or IP address you want to ping.')
-url_A = str(input(': '))
+
+while True:
+    url_A = str(input(': ').lower())
+    if 'https://' in url_A:
+        print('Delete "https://".')
+    elif 'http://' in url_A:
+        print('Delete "http://".')
+    elif '/' in url_A:
+        print('Delete "/".')
+    else:
+        break
+
+if url_A == '':
+    url_A = 'google.com'
+
 system('cls')
 print(f'Pinging {url_A}...')
 
-# Programa
 while True:
     try:
         p_out = ping(url_A, unit='ms')
