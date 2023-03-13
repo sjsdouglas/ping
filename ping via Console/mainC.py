@@ -2,14 +2,19 @@
 # PING_Console_0.2.3.0
 # Python_3.11.1
 
-# Importações
+
+# - - - - - - - - - - IMPORTS - - - - - - - - - - #
+
+
 from time import sleep
 from ping3 import ping
 from os import system
 
-# Programa
-print('Enter the website or IP address you want to ping.')
 
+# - - - - - - - - - - GET URL - - - - - - - - - - #
+
+
+print('Enter the website or IP address you want to ping.')
 while True:
     url_A = str(input(': ').lower())
     if 'https://' in url_A:
@@ -20,12 +25,15 @@ while True:
         print('Delete "/".')
     else:
         break
-
 if url_A == '':
     url_A = 'google.com'
 
 system('cls')
 print(f'Pinging {url_A}...')
+
+
+# - - - - - - - - - - RUN - - - - - - - - - - #
+
 
 while True:
     try:
